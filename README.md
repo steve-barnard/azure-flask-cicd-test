@@ -1,3 +1,5 @@
+[![Build and deploy Python app to Azure Web App - conftestflaskapi](https://github.com/steve-barnard/azure-flask-cicd-test/actions/workflows/main_conftestflaskapi.yml/badge.svg?branch=main)](https://github.com/steve-barnard/azure-flask-cicd-test/actions/workflows/main_conftestflaskapi.yml)
+
 ---
 page_type: sample
 description: "A minimal sample app that can be used to demonstrate deploying Flask apps to Azure App Service on Linux."
