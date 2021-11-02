@@ -1,6 +1,9 @@
 import pytest
 
 
+def add(x,y):
+    return x + y
+
 @pytest.mark.parametrize('x, y, result', [
     (10, 10, 20),
     (5, 5, 10),
